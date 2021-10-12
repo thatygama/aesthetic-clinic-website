@@ -11,7 +11,7 @@
 <p>There will be improvements to be made with JavaScript and content to be added.</p>
 
 <p>Direct Link!: https://thatygama.github.io/aesthetic-clinic-website/ </p>
-
+<br/>
 ![awaxClinic](https://user-images.githubusercontent.com/90471309/136721526-74e549b5-1f64-477c-aba6-abc41e8fc612.gif)
 
 <br/>
